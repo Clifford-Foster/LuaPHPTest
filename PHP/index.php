@@ -1,7 +1,6 @@
 <?php
 /*
     API Demo
- 
     This script provides a RESTful API interface for a web application
  
     Input:
