@@ -4,7 +4,6 @@
     This script provides a RESTful API interface for a web application
  
     Input:
- 
         $_GET['format'] = [ json | html | xml ]
         $_GET['method'] = []
  
